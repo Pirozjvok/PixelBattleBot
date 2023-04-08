@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PixelBattleBot": {
+      "commandName": "Project",
+      "commandLineArgs": "-I 1416 295 \"C:\\Users\\AynurV\\Desktop\\task.png\" -T 96254ea6cc86aad4f73c995d21564a4f -A \"C:\\Users\\AynurV\\Desktop\\super.txt\" -W 2"
+    }
+  }
+}
